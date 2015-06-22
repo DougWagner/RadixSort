@@ -9,17 +9,10 @@ The constant ARRSIZE determines the number of elements of randomly generated int
 This program was compiled and tested on MSVC 2013.
 
 Code Output:
-
 Radix Sort ran 1000 times.
-
 Array Size: 10000 elements.
-
 Maximum integer size: 10000
-
 Shortest runtime: 54108 microseconds.
-
 Longest runtime: 107220 microseconds.
-
 Average runtime: 102967 microseconds.
-
 Press any key to continue . . .
